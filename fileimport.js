@@ -1,0 +1,1 @@
+const not = require('./notation.js').mean;
